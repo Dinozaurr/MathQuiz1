@@ -1,0 +1,11 @@
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\bin\Debug\MathQuizZakharovaL.exe.config
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\bin\Debug\MathQuizZakharovaL.exe
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\bin\Debug\MathQuizZakharovaL.pdb
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\obj\Debug\MathQuizZakharovaL.csproj.AssemblyReference.cache
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\obj\Debug\MathQuizZakharovaL.csproj.SuggestedBindingRedirects.cache
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\obj\Debug\MathQuizZakharovaL.Form1.resources
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\obj\Debug\MathQuizZakharovaL.Properties.Resources.resources
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\obj\Debug\MathQuizZakharovaL.csproj.GenerateResource.cache
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\obj\Debug\MathQuizZakharovaL.csproj.CoreCompileInputs.cache
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\obj\Debug\MathQuizZakharovaL.exe
+C:\Users\mi\Desktop\мдк2\MathQuizZakharovaL\MathQuizZakharovaL\obj\Debug\MathQuizZakharovaL.pdb
